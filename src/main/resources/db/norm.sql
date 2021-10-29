@@ -1,0 +1,16 @@
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (2, 5, 2, 0);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (1, 4, 1, 0);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (3, 8, 3, 0);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (4, 2, 4, 0);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (0, 10, 0, 0);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (5, 10, 0, 4);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (6, 10, 0, 5);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (7, 3, 1, 1);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (8, 4, 1, 3);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (9, 3, 2, 2);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (10, 3, 2, 5);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (11, 2, 2, 6);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (12, 6, 3, 2);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (13, 3, 4, 1);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (14, 5, 4, 5);
+INSERT INTO public.norm (id, per_day, animal_id, product_id) VALUES (15, 6, 4, 6);
